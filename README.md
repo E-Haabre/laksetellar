@@ -1,2 +1,2 @@
 # laksetellar
-Ei laksetellar som tellar lasksar
+Ei laksetellar som tellar lasksar.
